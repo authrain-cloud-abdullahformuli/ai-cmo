@@ -1,0 +1,34 @@
+{
+  "name": "@authrain/ai-cmo",
+  "version": "1.0.0",
+  "description": "Open-source AI search engine optimization (GEO/AIO) platform to track brand visibility across ChatGPT, Gemini, Perplexity, and Claude",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs",
+    "lint": "node -e \"console.log('Validating ai-cmo repository...');\""
+  },
+  "keywords": [
+    "ai-cmo",
+    "geo",
+    "generative-engine-optimization",
+    "aio",
+    "ai-seo",
+    "brand-monitoring",
+    "chatgpt",
+    "gemini",
+    "perplexity",
+    "claude",
+    "fastapi",
+    "vue"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/ai-cmo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/ai-cmo/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/ai-cmo#readme"
+}
